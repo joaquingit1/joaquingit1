@@ -8,7 +8,7 @@ Areas of focus: **AI, backend systems, and user-facing products**.
 
 🔭 Selected work: 
 
-NextHit AI [(repo)](https://github.com/joaquingit1/nexthit-ai) (🏆 Finalist @ HackITBA 2026. Built in 36h)
+NextHit AI [(repo)](https://github.com/joaquingit1/nexthit-ai) (🏆 Finalist @ HackITBA 2026, #2 overall. Built in 36h)
 
   AI system that predicts short-form video performance before launch using multimodal analysis and synthetic audience simulation.
 
